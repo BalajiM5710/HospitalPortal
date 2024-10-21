@@ -1,6 +1,6 @@
 
 
-# Hospitals Portal
+# Hospital Portal
 
 This project is a comprehensive hospital management system developed using the MySQL, Express, React, Node.js stack. The system is designed to handle various hospital operations, such as doctor availability, appointment booking, and predictive health monitoring using AI. This project is specifically tailored for Amrita Hospitals.
 
