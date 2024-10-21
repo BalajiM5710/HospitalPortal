@@ -1,0 +1,35 @@
+.predictive-health {
+  padding: 20px;
+  text-align: center;
+}
+
+.upload-audio, .heart-disease-input, .diabetes-input {
+  margin: 20px 0;
+}
+
+.results {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+input[type="text"] {
+  margin: 5px;
+  padding: 5px;
+  width: calc(100% - 12px);
+}

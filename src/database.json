@@ -1,0 +1,120 @@
+[
+    {
+      "specialization": "Cardiology",
+      "doctors": [
+        {
+          "name": "Dr. David Williams",
+          "slots": ["10:00 AM", "11:30 AM", "2:00 PM"]
+        },
+        {
+          "name": "Dr. Sarah Jones",
+          "slots": ["1:00 PM", "3:30 PM", "4:00 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Neurology",
+      "doctors": [
+        {
+          "name": "Dr. Amanda Brown",
+          "slots": ["9:00 AM", "11:00 AM", "3:00 PM"]
+        },
+        {
+          "name": "Dr. Mark Evans",
+          "slots": ["10:30 AM", "12:30 PM", "2:30 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Orthopedics",
+      "doctors": [
+        {
+          "name": "Dr. Thomas Green",
+          "slots": ["9:00 AM", "1:00 PM", "3:00 PM"]
+        },
+        {
+          "name": "Dr. Emily White",
+          "slots": ["10:00 AM", "2:00 PM", "4:00 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Pediatrics",
+      "doctors": [
+        {
+          "name": "Dr. Michael Johnson",
+          "slots": ["9:00 AM", "12:00 PM", "3:30 PM"]
+        },
+        {
+          "name": "Dr. Alice Taylor",
+          "slots": ["10:30 AM", "1:30 PM", "4:00 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Oncology",
+      "doctors": [
+        {
+          "name": "Dr. Robert Wilson",
+          "slots": ["8:00 AM", "11:00 AM", "2:00 PM"]
+        },
+        {
+          "name": "Dr. Olivia Martinez",
+          "slots": ["9:30 AM", "12:30 PM", "3:00 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Gastroenterology",
+      "doctors": [
+        {
+          "name": "Dr. William Clark",
+          "slots": ["9:00 AM", "11:30 AM", "1:30 PM"]
+        },
+        {
+          "name": "Dr. Sophia Lewis",
+          "slots": ["10:00 AM", "12:30 PM", "2:00 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Dermatology",
+      "doctors": [
+        {
+          "name": "Dr. James King",
+          "slots": ["10:00 AM", "1:00 PM", "3:30 PM"]
+        },
+        {
+          "name": "Dr. Isabella Lee",
+          "slots": ["11:00 AM", "2:00 PM", "4:00 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Ophthalmology",
+      "doctors": [
+        {
+          "name": "Dr. Benjamin Scott",
+          "slots": ["9:30 AM", "12:00 PM", "2:30 PM"]
+        },
+        {
+          "name": "Dr. Charlotte Adams",
+          "slots": ["10:30 AM", "1:00 PM", "3:30 PM"]
+        }
+      ]
+    },
+    {
+      "specialization": "Psychiatry",
+      "doctors": [
+        {
+          "name": "Dr. Andrew Roberts",
+          "slots": ["9:00 AM", "11:30 AM", "3:00 PM"]
+        },
+        {
+          "name": "Dr. Mia Walker",
+          "slots": ["10:30 AM", "12:30 PM", "4:00 PM"]
+        }
+      ]
+    }
+  ]
+  

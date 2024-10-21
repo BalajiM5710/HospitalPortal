@@ -1,0 +1,68 @@
+.diet-recommendation {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .diet-plan-box {
+    background-color: #f4f6f8;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .diet-plan-box h2 {
+    margin-bottom: 15px;
+  }
+  
+  .diet-plan-box ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .diet-plan-box ul li {
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  
+  .health-category-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .health-category-box {
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 12px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+  
+  .health-category-box:hover {
+    transform: scale(1.05);
+  }
+  
+  .health-category-box h3 {
+    margin-top: 10px;
+  }
+  
+  .recommendations-box {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+  }
+  
+  .recommendations-box ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recommendations-box ul li {
+    font-size: 16px;
+    margin: 8px 0;
+  }
+  

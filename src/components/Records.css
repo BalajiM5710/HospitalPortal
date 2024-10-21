@@ -1,0 +1,49 @@
+/* src/components/Records.css */
+
+.records {
+    padding: 20px;
+    background-color: #f0f4f8; /* Light background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .record-item {
+    background-color: #ffffff; /* White background for each record */
+    margin: 15px 0; /* Space between records */
+    padding: 15px;
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Shadow for each record */
+    display: flex; /* Flex layout for icon and text */
+    flex-direction: column; /* Align children vertically */
+    align-items: flex-start; /* Align items to start */
+  }
+  
+  .icon {
+    font-size: 30px; /* Size of the icon */
+    color: #76c7c0; /* Color of the icon */
+    margin-bottom: 10px; /* Space between icon and text */
+  }
+  
+  .record-item h3 {
+    margin: 0; /* Remove default margin */
+    margin-bottom: 10px; /* Space between title and value */
+  }
+  
+  .bar-container {
+    width: 100%; /* Full width for the bar container */
+    background-color: #e0e0e0; /* Light grey background for the level bar */
+    border-radius: 5px; /* Rounded corners for the level bar */
+    overflow: hidden; /* Prevent overflow */
+    margin-top: 5px; /* Space above the bar */
+  }
+  
+  .bar {
+    height: 20px; /* Height of the filled bar */
+    background-color: #76c7c0; /* Color of the filled portion */
+    border-radius: 5px; /* Rounded corners for the filled portion */
+    text-align: center; /* Center align text inside the bar */
+    color: white; /* Color of the text inside the bar */
+    line-height: 20px; /* Center the text vertically */
+    transition: width 0.3s ease; /* Smooth transition for width change */
+  }
+  
